@@ -1,4 +1,8 @@
 Selenium Project
+## Framework Design
+![Alt Text](src/resources/Presentation1.jpg)
+
+
 ### Choosing test cases for automation 
 
 1. **sanity test cases** - **P1**

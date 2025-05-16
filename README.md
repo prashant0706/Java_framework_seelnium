@@ -1,6 +1,6 @@
 Selenium Project
 ## Framework Design
-![Alt Text](src/resources/Presentation1.jpg)
+![Alt Text](src/test/resources/Presentation1.jpg)
 
 
 ### Choosing test cases for automation 
